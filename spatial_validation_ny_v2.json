@@ -1,0 +1,31 @@
+{
+    "location": "New York",
+    "aoi_area_m2": 37581.15014990153,
+    "covered_area_m2": 3595.0001540583025,
+    "uncovered_area_m2": 33986.149995853295,
+    "coverage_percentage": 9.565966288202391,
+    "uncovered_percentage": 90.43403371179761,
+    "overlap_inside_aoi_m2": 0,
+    "number_of_tiles": 2,
+    "coverage_status": "PARTIAL COVERAGE",
+    "tiles": [
+        {
+            "tile_id": 0,
+            "temperature": 27.56,
+            "tile_area_m2": 10530.13317946254,
+            "intersection_area_m2": 1735.2710990485841,
+            "tile_coverage_percent": 16.47909926184953,
+            "aoi_coverage_percent": 4.617397530748885,
+            "intersects_aoi": true
+        },
+        {
+            "tile_id": 1,
+            "temperature": 27.56,
+            "tile_area_m2": 10530.133179555976,
+            "intersection_area_m2": 1859.7290549957193,
+            "tile_coverage_percent": 17.661021216771907,
+            "aoi_coverage_percent": 4.948568757416255,
+            "intersects_aoi": true
+        }
+    ]
+}

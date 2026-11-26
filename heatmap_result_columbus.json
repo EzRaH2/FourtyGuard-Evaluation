@@ -1,0 +1,117 @@
+{
+    "error": false,
+    "status_code": 200,
+    "message": "Completed",
+    "data": {
+        "activity_id": "ce3399cc-51cc-4549-9a60-7b604c1bdc6f",
+        "status": "Completed",
+        "result": {
+            "map_data": {
+                "type": "FeatureCollection",
+                "features": [
+                    {
+                        "id": "0",
+                        "type": "Feature",
+                        "properties": {
+                            "tile_id": 0,
+                            "average_temperature": 27.56,
+                            "min_temperature": 27.56,
+                            "max_temperature": 27.56
+                        },
+                        "geometry": {
+                            "type": "Polygon",
+                            "coordinates": [
+                                [
+                                    [
+                                        -73.47695893830964,
+                                        40.60217305258223
+                                    ],
+                                    [
+                                        -73.47579629817604,
+                                        40.602157712789925
+                                    ],
+                                    [
+                                        -73.47577440190727,
+                                        40.60312143877182
+                                    ],
+                                    [
+                                        -73.47693705872729,
+                                        40.603136779082895
+                                    ],
+                                    [
+                                        -73.47695893830964,
+                                        40.60217305258223
+                                    ]
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "id": "1",
+                        "type": "Feature",
+                        "properties": {
+                            "tile_id": 1,
+                            "average_temperature": 27.56,
+                            "min_temperature": 27.56,
+                            "max_temperature": 27.56
+                        },
+                        "geometry": {
+                            "type": "Polygon",
+                            "coordinates": [
+                                [
+                                    [
+                                        -73.47579629817604,
+                                        40.602157712789925
+                                    ],
+                                    [
+                                        -73.47463365893746,
+                                        40.602142361299684
+                                    ],
+                                    [
+                                        -73.47461174598234,
+                                        40.60310608676243
+                                    ],
+                                    [
+                                        -73.47577440190727,
+                                        40.60312143877182
+                                    ],
+                                    [
+                                        -73.47579629817604,
+                                        40.602157712789925
+                                    ]
+                                ]
+                            ]
+                        }
+                    }
+                ]
+            },
+            "stats_data": {
+                "temperature_stats": {
+                    "minimum": 27.56,
+                    "maximum": 27.56,
+                    "mean": 27.56,
+                    "standard_deviation": 0.0
+                },
+                "overall_temperature_distribution": [
+                    27.56,
+                    27.56,
+                    27.56,
+                    27.56,
+                    27.56
+                ],
+                "normal_temperature_distribution": {
+                    "x_axis": [],
+                    "y_axis": []
+                },
+                "temperature_frequency": {
+                    "x_axis": [
+                        28.0
+                    ],
+                    "y_axis": [
+                        2
+                    ]
+                }
+            }
+        }
+    }
+}

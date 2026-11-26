@@ -1,0 +1,30 @@
+{
+    "source": "recovered_wv\\heatmap_polygons_wv.geojson",
+    "aoi_bounds": {
+        "west": -81.623467,
+        "east": -81.613467,
+        "south": 38.359224,
+        "north": 38.369224
+    },
+    "feature_count": 81,
+    "loaded_polygon_count": 81,
+    "aoi_area_m2": 969421.9791851165,
+    "covered_area_m2": 801363.1078555179,
+    "uncovered_area_m2": 168058.8713295916,
+    "sum_individual_intersections_m2": 801363.1078587808,
+    "overlap_excess_area_m2": 3.262888640165329e-06,
+    "coverage_percent": 82.66401268610943,
+    "uncovered_percent": 17.33598731388984,
+    "fully_inside": 56,
+    "partially_intersecting": 25,
+    "outside": 0,
+    "temperature": {
+        "count": 81,
+        "mean": 34.76,
+        "min": 34.76,
+        "max": 34.76,
+        "std": 0.0
+    },
+    "area_identity_error_m2": 6.984919309616089e-09,
+    "area_identity_passed": true
+}

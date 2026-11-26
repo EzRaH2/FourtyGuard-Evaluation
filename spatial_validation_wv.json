@@ -1,0 +1,835 @@
+{
+    "location": "West Virginia",
+    "aoi_area_m2": 3877955.880143309,
+    "covered_area_m2": 807543.4502486819,
+    "uncovered_area_m2": 3070412.4298945707,
+    "coverage_percentage": 20.823946305929592,
+    "uncovered_percentage": 79.1760536940704,
+    "overlap_excess_area_m2": 9828.454986409866,
+    "sum_individual_intersections_m2": 817371.9052350918,
+    "number_of_tiles": 81,
+    "coverage_status": "PARTIAL COVERAGE",
+    "area_identity_difference_m2": 5.634501576423645e-08,
+    "area_identity_passed": true,
+    "invalid_reconstructed_tiles": 0,
+    "union_geometry_valid": true,
+    "aoi_geometry_valid": true,
+    "duplicate_tile_ids": 0,
+    "missing_boundary_values": 0,
+    "tile_classification": {
+        "Fully Inside AOI": 64,
+        "Partially Intersecting AOI": 17
+    },
+    "tiles": [
+        {
+            "tile_id": 0.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10554.40067762649,
+            "intersection_area_m2": 10554.40067762649,
+            "tile_coverage_percent": 100.0,
+            "aoi_coverage_percent": 0.2721640215575752,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 1.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10554.138717238246,
+            "intersection_area_m2": 10554.138717238246,
+            "tile_coverage_percent": 100.0,
+            "aoi_coverage_percent": 0.27215726644234595,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 2.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10553.87675687134,
+            "intersection_area_m2": 10553.87675687134,
+            "tile_coverage_percent": 100.0,
+            "aoi_coverage_percent": 0.2721505113276669,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 3.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10553.614796200476,
+            "intersection_area_m2": 10553.614796200476,
+            "tile_coverage_percent": 100.0,
+            "aoi_coverage_percent": 0.27214375620514974,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 4.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10553.352835261365,
+            "intersection_area_m2": 10553.352835261365,
+            "tile_coverage_percent": 100.0,
+            "aoi_coverage_percent": 0.27213700107571537,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 5.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10553.090874024274,
+            "intersection_area_m2": 10553.090874024274,
+            "tile_coverage_percent": 100.0,
+            "aoi_coverage_percent": 0.2721302459385971,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 6.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10552.828913139503,
+            "intersection_area_m2": 10552.828913139503,
+            "tile_coverage_percent": 100.0,
+            "aoi_coverage_percent": 0.272123490810564,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 7.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10552.56695165813,
+            "intersection_area_m2": 10552.56695165813,
+            "tile_coverage_percent": 100.0,
+            "aoi_coverage_percent": 0.2721167356671464,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 8.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10552.304989970384,
+            "intersection_area_m2": 6786.979451292863,
+            "tile_coverage_percent": 64.3175065328728,
+            "aoi_coverage_percent": 0.17501435449652541,
+            "intersects_aoi": true,
+            "tile_position": "Partially Intersecting AOI"
+        },
+        {
+            "tile_id": 9.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10554.4053327135,
+            "intersection_area_m2": 10554.4053327135,
+            "tile_coverage_percent": 100.0,
+            "aoi_coverage_percent": 0.27216414159728564,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 10.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10554.143363786014,
+            "intersection_area_m2": 10554.143363786014,
+            "tile_coverage_percent": 100.0,
+            "aoi_coverage_percent": 0.27215738626185676,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 11.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10553.881394694414,
+            "intersection_area_m2": 10553.881394694414,
+            "tile_coverage_percent": 100.0,
+            "aoi_coverage_percent": 0.272150630922196,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 12.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10553.619425231616,
+            "intersection_area_m2": 10553.619425231616,
+            "tile_coverage_percent": 100.0,
+            "aoi_coverage_percent": 0.27214387557296316,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 13.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10553.357455613537,
+            "intersection_area_m2": 10553.357455613539,
+            "tile_coverage_percent": 100.00000000000003,
+            "aoi_coverage_percent": 0.2721371202197262,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 14.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10553.095486264418,
+            "intersection_area_m2": 10553.095486264418,
+            "tile_coverage_percent": 100.0,
+            "aoi_coverage_percent": 0.2721303648734248,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 15.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10552.833516138528,
+            "intersection_area_m2": 10552.833516138528,
+            "tile_coverage_percent": 100.0,
+            "aoi_coverage_percent": 0.27212360950709297,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 16.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10552.571546041105,
+            "intersection_area_m2": 10552.571546041105,
+            "tile_coverage_percent": 100.0,
+            "aoi_coverage_percent": 0.27211685414149517,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 17.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10552.309575675452,
+            "intersection_area_m2": 6857.453681809323,
+            "tile_coverage_percent": 64.98533456236643,
+            "aoi_coverage_percent": 0.17683165806300785,
+            "intersects_aoi": true,
+            "tile_position": "Partially Intersecting AOI"
+        },
+        {
+            "tile_id": 18.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10554.409987821591,
+            "intersection_area_m2": 10554.409987821593,
+            "tile_coverage_percent": 100.00000000000003,
+            "aoi_coverage_percent": 0.27216426163753976,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 19.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10554.14801017368,
+            "intersection_area_m2": 10554.148010173678,
+            "tile_coverage_percent": 99.99999999999997,
+            "aoi_coverage_percent": 0.2721575060772391,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 20.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10553.886032445213,
+            "intersection_area_m2": 10553.886032445213,
+            "tile_coverage_percent": 100.0,
+            "aoi_coverage_percent": 0.2721507505148614,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 21.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10553.624054669624,
+            "intersection_area_m2": 10553.624054669624,
+            "tile_coverage_percent": 100.0,
+            "aoi_coverage_percent": 0.27214399495126845,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 22.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10553.362076247506,
+            "intersection_area_m2": 10553.362076247508,
+            "tile_coverage_percent": 100.00000000000003,
+            "aoi_coverage_percent": 0.27213723937100365,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 23.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10553.100097984105,
+            "intersection_area_m2": 10553.100097984105,
+            "tile_coverage_percent": 100.0,
+            "aoi_coverage_percent": 0.27213048379483157,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 24.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10552.838119388169,
+            "intersection_area_m2": 10552.838119388169,
+            "tile_coverage_percent": 100.0,
+            "aoi_coverage_percent": 0.2721237282100845,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 25.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10552.57614058374,
+            "intersection_area_m2": 10552.57614058374,
+            "tile_coverage_percent": 100.0,
+            "aoi_coverage_percent": 0.2721169726199611,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 26.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10552.314161547929,
+            "intersection_area_m2": 6927.927942620816,
+            "tile_coverage_percent": 65.65316229747799,
+            "aoi_coverage_percent": 0.1786489624107017,
+            "intersects_aoi": true,
+            "tile_position": "Partially Intersecting AOI"
+        },
+        {
+            "tile_id": 27.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10554.414643137796,
+            "intersection_area_m2": 10554.414643137796,
+            "tile_coverage_percent": 100.0,
+            "aoi_coverage_percent": 0.2721643816831603,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 28.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10554.15265706623,
+            "intersection_area_m2": 10554.15265706623,
+            "tile_coverage_percent": 100.0,
+            "aoi_coverage_percent": 0.27215762590564085,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 29.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10553.890670526216,
+            "intersection_area_m2": 10553.890670526216,
+            "tile_coverage_percent": 100.0,
+            "aoi_coverage_percent": 0.2721508701160416,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 30.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10553.628683629013,
+            "intersection_area_m2": 10553.628683629013,
+            "tile_coverage_percent": 100.0,
+            "aoi_coverage_percent": 0.2721441143172316,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 31.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10553.366697065685,
+            "intersection_area_m2": 10553.366697065685,
+            "tile_coverage_percent": 100.0,
+            "aoi_coverage_percent": 0.2721373585270312,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 32.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10553.104709966952,
+            "intersection_area_m2": 10553.104709966952,
+            "tile_coverage_percent": 100.0,
+            "aoi_coverage_percent": 0.27213060272302436,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 33.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10552.842722692294,
+            "intersection_area_m2": 10552.842722692294,
+            "tile_coverage_percent": 100.0,
+            "aoi_coverage_percent": 0.272123846914481,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 34.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10552.580735284888,
+            "intersection_area_m2": 10552.58073528489,
+            "tile_coverage_percent": 100.00000000000003,
+            "aoi_coverage_percent": 0.2721170911025146,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 35.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10552.31874755144,
+            "intersection_area_m2": 6998.402233750262,
+            "tile_coverage_percent": 66.32098973862186,
+            "aoi_coverage_percent": 0.18046626754019796,
+            "intersects_aoi": true,
+            "tile_position": "Partially Intersecting AOI"
+        },
+        {
+            "tile_id": 36.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10554.419298770015,
+            "intersection_area_m2": 10554.419298770015,
+            "tile_coverage_percent": 100.0,
+            "aoi_coverage_percent": 0.27216450173693,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 37.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10554.157303876824,
+            "intersection_area_m2": 10554.157303876826,
+            "tile_coverage_percent": 100.00000000000003,
+            "aoi_coverage_percent": 0.27215774573192925,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 38.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10553.895308754405,
+            "intersection_area_m2": 10553.895308754405,
+            "tile_coverage_percent": 100.0,
+            "aoi_coverage_percent": 0.27215098972101737,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 39.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10553.633313540904,
+            "intersection_area_m2": 10553.633313540904,
+            "tile_coverage_percent": 100.0,
+            "aoi_coverage_percent": 0.27214423370775676,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 40.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10553.371317894664,
+            "intersection_area_m2": 10553.371317894664,
+            "tile_coverage_percent": 100.0,
+            "aoi_coverage_percent": 0.2721374776833373,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 41.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10553.109322169974,
+            "intersection_area_m2": 10553.109322169972,
+            "tile_coverage_percent": 99.99999999999997,
+            "aoi_coverage_percent": 0.2721307216568948,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 42.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10552.8473262249,
+            "intersection_area_m2": 10552.847326224903,
+            "tile_coverage_percent": 100.00000000000003,
+            "aoi_coverage_percent": 0.2721239656247694,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 43.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10552.585330185797,
+            "intersection_area_m2": 10552.585330185797,
+            "tile_coverage_percent": 100.0,
+            "aoi_coverage_percent": 0.2721172095902192,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 44.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10552.323333423392,
+            "intersection_area_m2": 7068.876555084144,
+            "tile_coverage_percent": 66.98881688636482,
+            "aoi_coverage_percent": 0.18228357344856938,
+            "intersects_aoi": true,
+            "tile_position": "Partially Intersecting AOI"
+        },
+        {
+            "tile_id": 45.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10554.423954481152,
+            "intersection_area_m2": 10554.423954481152,
+            "tile_coverage_percent": 100.0,
+            "aoi_coverage_percent": 0.27216462179273465,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 46.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10554.161951005797,
+            "intersection_area_m2": 10554.161951005797,
+            "tile_coverage_percent": 100.0,
+            "aoi_coverage_percent": 0.2721578655664275,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 47.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10553.899947040107,
+            "intersection_area_m2": 10553.899947040105,
+            "tile_coverage_percent": 99.99999999999997,
+            "aoi_coverage_percent": 0.2721511093274761,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 48.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10553.637943098023,
+            "intersection_area_m2": 10553.637943098023,
+            "tile_coverage_percent": 100.0,
+            "aoi_coverage_percent": 0.27214435308913354,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 49.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10553.375938923451,
+            "intersection_area_m2": 10553.375938923451,
+            "tile_coverage_percent": 100.0,
+            "aoi_coverage_percent": 0.27213759684479577,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 50.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10553.113934468673,
+            "intersection_area_m2": 10553.113934468673,
+            "tile_coverage_percent": 100.0,
+            "aoi_coverage_percent": 0.27213084059323245,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 51.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10552.8519299651,
+            "intersection_area_m2": 10552.851929965098,
+            "tile_coverage_percent": 99.99999999999997,
+            "aoi_coverage_percent": 0.2721240843404108,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 52.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10552.589925189657,
+            "intersection_area_m2": 10552.589925189659,
+            "tile_coverage_percent": 100.00000000000003,
+            "aoi_coverage_percent": 0.27211732808057865,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 53.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10552.327919818035,
+            "intersection_area_m2": 7139.350906820278,
+            "tile_coverage_percent": 67.65664373841209,
+            "aoi_coverage_percent": 0.18410088014091705,
+            "intersects_aoi": true,
+            "tile_position": "Partially Intersecting AOI"
+        },
+        {
+            "tile_id": 54.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10554.428610314477,
+            "intersection_area_m2": 10554.428610314477,
+            "tile_coverage_percent": 100.0,
+            "aoi_coverage_percent": 0.2721647418516902,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 55.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10554.16659792534,
+            "intersection_area_m2": 10554.166597925341,
+            "tile_coverage_percent": 100.00000000000003,
+            "aoi_coverage_percent": 0.27215798539552527,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 56.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10553.904585520271,
+            "intersection_area_m2": 10553.904585520271,
+            "tile_coverage_percent": 100.0,
+            "aoi_coverage_percent": 0.2721512289389495,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 57.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10553.64257285319,
+            "intersection_area_m2": 10553.64257285319,
+            "tile_coverage_percent": 100.0,
+            "aoi_coverage_percent": 0.2721444724756173,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 58.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10553.380559934343,
+            "intersection_area_m2": 10553.380559934341,
+            "tile_coverage_percent": 99.99999999999997,
+            "aoi_coverage_percent": 0.2721377160057928,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 59.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10553.118546875723,
+            "intersection_area_m2": 10553.118546875721,
+            "tile_coverage_percent": 99.99999999999997,
+            "aoi_coverage_percent": 0.27213095953236405,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 60.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10552.856533629316,
+            "intersection_area_m2": 10552.856533629314,
+            "tile_coverage_percent": 99.99999999999997,
+            "aoi_coverage_percent": 0.2721242030540929,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 61.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10552.594520150413,
+            "intersection_area_m2": 10552.594520150413,
+            "tile_coverage_percent": 100.0,
+            "aoi_coverage_percent": 0.2721174465698265,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 62.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10552.332506315663,
+            "intersection_area_m2": 7209.825288910718,
+            "tile_coverage_percent": 68.32447029692796,
+            "aoi_coverage_percent": 0.18591818761600454,
+            "intersects_aoi": true,
+            "tile_position": "Partially Intersecting AOI"
+        },
+        {
+            "tile_id": 63.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10554.433266110063,
+            "intersection_area_m2": 10554.433266110065,
+            "tile_coverage_percent": 100.00000000000003,
+            "aoi_coverage_percent": 0.2721648619096726,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 64.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10554.171245141124,
+            "intersection_area_m2": 10554.171245141124,
+            "tile_coverage_percent": 100.0,
+            "aoi_coverage_percent": 0.27215810523226214,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 65.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10553.909224108113,
+            "intersection_area_m2": 10553.909224108113,
+            "tile_coverage_percent": 100.0,
+            "aoi_coverage_percent": 0.2721513485531995,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 66.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10553.647202620901,
+            "intersection_area_m2": 10553.647202620901,
+            "tile_coverage_percent": 100.0,
+            "aoi_coverage_percent": 0.2721445918624245,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 67.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10553.385181257576,
+            "intersection_area_m2": 10553.385181257574,
+            "tile_coverage_percent": 99.99999999999997,
+            "aoi_coverage_percent": 0.27213783517484413,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 68.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10553.123159379014,
+            "intersection_area_m2": 10553.123159379014,
+            "tile_coverage_percent": 100.0,
+            "aoi_coverage_percent": 0.27213107847397755,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 69.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10552.861137294683,
+            "intersection_area_m2": 10552.861137294683,
+            "tile_coverage_percent": 100.0,
+            "aoi_coverage_percent": 0.27212432176780477,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 70.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10552.59911521581,
+            "intersection_area_m2": 10552.59911521581,
+            "tile_coverage_percent": 100.0,
+            "aoi_coverage_percent": 0.2721175650617727,
+            "intersects_aoi": true,
+            "tile_position": "Fully Inside AOI"
+        },
+        {
+            "tile_id": 71.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10552.337092638507,
+            "intersection_area_m2": 7280.2997009639375,
+            "tile_coverage_percent": 68.99229655999902,
+            "aoi_coverage_percent": 0.18773549586373572,
+            "intersects_aoi": true,
+            "tile_position": "Partially Intersecting AOI"
+        },
+        {
+            "tile_id": 72.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10554.437922385601,
+            "intersection_area_m2": 10122.905690224881,
+            "tile_coverage_percent": 95.91136699714293,
+            "aoi_coverage_percent": 0.2610371547045757,
+            "intersects_aoi": true,
+            "tile_position": "Partially Intersecting AOI"
+        },
+        {
+            "tile_id": 73.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10554.175892569847,
+            "intersection_area_m2": 10052.719895200295,
+            "tile_coverage_percent": 95.24874322283583,
+            "aoi_coverage_percent": 0.2592272889610286,
+            "intersects_aoi": true,
+            "tile_position": "Partially Intersecting AOI"
+        },
+        {
+            "tile_id": 74.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10553.913862637293,
+            "intersection_area_m2": 9982.535852216106,
+            "tile_coverage_percent": 94.586103147535,
+            "aoi_coverage_percent": 0.2574174683969639,
+            "intersects_aoi": true,
+            "tile_position": "Partially Intersecting AOI"
+        },
+        {
+            "tile_id": 75.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10553.651832646425,
+            "intersection_area_m2": 9912.353561015294,
+            "tile_coverage_percent": 93.92344676704842,
+            "aoi_coverage_percent": 0.255607693005754,
+            "intersects_aoi": true,
+            "tile_position": "Partially Intersecting AOI"
+        },
+        {
+            "tile_id": 76.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10553.38980279967,
+            "intersection_area_m2": 9842.173022305567,
+            "tile_coverage_percent": 93.26077408506767,
+            "aoi_coverage_percent": 0.2537979628056483,
+            "intersects_aoi": true,
+            "tile_position": "Partially Intersecting AOI"
+        },
+        {
+            "tile_id": 77.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10553.12777219704,
+            "intersection_area_m2": 9771.9942351016,
+            "tile_coverage_percent": 92.59808509896571,
+            "aoi_coverage_percent": 0.25198827777123856,
+            "intersects_aoi": true,
+            "tile_position": "Partially Intersecting AOI"
+        },
+        {
+            "tile_id": 78.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10552.86574136628,
+            "intersection_area_m2": 9701.81720013109,
+            "tile_coverage_percent": 91.93537980968377,
+            "aoi_coverage_percent": 0.25017863792128964,
+            "intersects_aoi": true,
+            "tile_position": "Partially Intersecting AOI"
+        },
+        {
+            "tile_id": 79.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10552.603710468335,
+            "intersection_area_m2": 9631.64191716073,
+            "tile_coverage_percent": 91.2726582123614,
+            "aoi_coverage_percent": 0.24836904324978537,
+            "intersects_aoi": true,
+            "tile_position": "Partially Intersecting AOI"
+        },
+        {
+            "tile_id": 80.0,
+            "temperature": 34.76,
+            "tile_area_m2": 10552.34167940938,
+            "intersection_area_m2": 6660.647915378389,
+            "tile_coverage_percent": 63.12009331895695,
+            "aoi_coverage_percent": 0.17175667081421891,
+            "intersects_aoi": true,
+            "tile_position": "Partially Intersecting AOI"
+        }
+    ]
+}

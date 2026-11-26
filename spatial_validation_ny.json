@@ -1,0 +1,45 @@
+{
+    "aoi": {
+        "latitude": 40.601349,
+        "longitude": -73.475794,
+        "offset": 0.001,
+        "bounds": {
+            "min_latitude": 40.600349,
+            "max_latitude": 40.602349,
+            "min_longitude": -73.476794,
+            "max_longitude": -73.47479399999999
+        },
+        "area_degrees_squared": 4.000000000009777e-06
+    },
+    "total_tiles": 2,
+    "intersecting_tiles": 2,
+    "approximate_coverage_percent": 10.053741674373127,
+    "tiles": [
+        {
+            "tile_id": 0,
+            "temperature": 27.56,
+            "tile_area": 1.1597396643497306e-06,
+            "intersection_area": 1.950360745518719e-07,
+            "tile_coverage_percent": 16.81722894777676,
+            "aoi_coverage_percent": 4.87590186378488,
+            "intersects_aoi": true,
+            "min_latitude": 40.602157712789925,
+            "max_latitude": 40.603136779082895,
+            "min_longitude": -73.47695893830964,
+            "max_longitude": -73.47577440190727
+        },
+        {
+            "tile_id": 1,
+            "temperature": 27.56,
+            "tile_area": 1.1597683674155635e-06,
+            "intersection_area": 2.0711359242403614e-07,
+            "tile_coverage_percent": 17.85818601740015,
+            "aoi_coverage_percent": 5.177839810588248,
+            "intersects_aoi": true,
+            "min_latitude": 40.602142361299684,
+            "max_latitude": 40.60312143877182,
+            "min_longitude": -73.47579629817604,
+            "max_longitude": -73.47461174598234
+        }
+    ]
+}

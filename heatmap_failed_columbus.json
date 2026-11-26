@@ -1,0 +1,10 @@
+{
+    "error": false,
+    "status_code": 200,
+    "message": "Failed",
+    "data": {
+        "activity_id": "ba10be6e-0172-493a-9343-61034cf06c47",
+        "status": "Failed",
+        "task_id": "1a43e2a3-cceb-4a1f-a5e9-f49e7e6bfa98"
+    }
+}
